@@ -1,4 +1,16 @@
+
 .idea/
+*.iml
+*.iws
+*.ipr
 
-__pycache__/
+'/debug.log'
 
+venv/
+.venv/
+.env/
+
+poetry.lock
+
+*.log
+'*.pyc'
